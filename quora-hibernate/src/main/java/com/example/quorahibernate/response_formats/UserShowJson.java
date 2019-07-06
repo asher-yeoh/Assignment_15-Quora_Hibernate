@@ -14,6 +14,6 @@ public class UserShowJson {
     public List<QuestionDTO> questions;
     
     //Get all answers for the user with id.
-    public List<AnswerDTO> answerss;
+    public List<AnswerDTO> answers;
     
 }
