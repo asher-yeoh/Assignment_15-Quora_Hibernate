@@ -13,7 +13,7 @@ public class UserShowJson {
     //Get all questions for the user with id.
     public List<QuestionDTO> questions;
     
-    //Get all questions for the user with id.
-    public List<AnswerDTO> answers;
+    //Get all answers for the user with id.
+    public List<AnswerDTO> answerss;
     
 }
